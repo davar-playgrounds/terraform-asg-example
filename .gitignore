@@ -1,8 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 .terraform
 *.tfstate
 *.tfstate.backup
 =======
+=======
+>>>>>>> 2e2becd20462d4129ff4c1cc57964d6e46e5822c
 #  Local .terraform directories
 **/.terraform/*
 
@@ -12,4 +15,7 @@
 
 # .tfvars files
 *.tfvars
+<<<<<<< HEAD
 >>>>>>> b5b7038b48546935446b99711383e5c787fcaefe
+=======
+>>>>>>> 2e2becd20462d4129ff4c1cc57964d6e46e5822c
